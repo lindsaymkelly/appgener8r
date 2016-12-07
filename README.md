@@ -1,24 +1,11 @@
-# README
+# App Gener8r
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Do you love building new things but struggle to come up with creative ideas by yourself?
 
-Things you may want to cover:
+Are you unsure what your next project should be?
 
-* Ruby version
+Do you need to pitch a final project, an app worth investing in, or simply want something to keep your coding skills sharp?
 
-* System dependencies
+If you answered "yes" to any of these questions, then App Gener8r is for you!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application does the creative thinking itself so you don't have to!  Just press the button and an application idea will be generated. If you like it, great! Start building. But if you're unsatisfied, you can keep generating as many as you like.
