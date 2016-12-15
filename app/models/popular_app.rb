@@ -1,0 +1,2 @@
+class PopularApp < ApplicationRecord
+end
